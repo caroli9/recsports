@@ -1,5 +1,7 @@
 # Club Sports
 
+![Club sports collage](img-clubsports.jpg) 
+
 If you are looking for a team with more committment and competition, you might want to check out some of our many club sports:
 
 * names
