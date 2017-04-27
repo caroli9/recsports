@@ -3,8 +3,9 @@
 <map>
  <title>Recreational Sports</title>
  
-  <topichead navtitle="Intramural Sports"/>
+  <topichead navtitle="Intramural Sports">
    <topicref href="c-intramuralsports.dita"/>
    <topicref href="t-choosingasport.dita"/>
    <topicref href="t-signupintramural.md" format="markdown"/>
+  </topichead>
 </map>
