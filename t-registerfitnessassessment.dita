@@ -2,14 +2,42 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-registerfitnessassessment">
     <title>How to Register and Prepare for a Fitness Assessment</title>
-    <shortdesc>If you have decided to complete a fitness assessment, you need to first register and prepare.</shortdesc>
+    <shortdesc>If you have decided to complete a fitness assessment, you need to first register and pay online. There are also a few things you should keep in mind when preparing for your fitness assessment.</shortdesc>
     <taskbody>
         <context>
             <p></p>
         </context>
+       
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Visit the online rec sports portal and click on "olympic lifting and bod pod testing."</cmd>
+            </step>
+            <step>
+                <cmd>If you want to complete the BOD POD assessment, click on "bod pod." Then, click on "add to cart." </cmd>
+            </step>
+            <step>
+                <cmd>Click "checkout." When it asks you "are you sure?," click "checkout" again.</cmd>
+            </step>
+            <step>
+                <cmd>Fill out your payment information by following the online prompt.</cmd>
+            </step>
+            <step>
+                <cmd>If you want to complete the advanced fitness assessment, click on "fitness assessment- full fitness assessment." Then, click on "add to cart."</cmd>
+            </step>
+            <step>
+                <cmd>Click "checkout." When it asks "are you sure?," click "checkout" again.</cmd>
+            </step>
+            <step>
+                <cmd>Fill out your payment information by following the online prompt.</cmd>
+            </step>
+        </steps>
+        <steps> 
+            <step> 
+                <note>Once you have registered and paid for an assessment, follow these guidelines to prepare. </note>
+                <cmd>If you are male, wear compression shorts made of polyester and/or Lycra. A swim cap will be provided to you before the assessment.</cmd>
+            </step>
+            <step>
+            <cmd>If you are female, wear either compression shorts and a wire-free sports bra or a bathing suit.</cmd>
             </step>
         </steps>
     </taskbody>
