@@ -6,4 +6,4 @@ If you are looking for a team with more committment and competition, you might w
 
 * names
 
-Visit []() for the full list of sports and instructions for joining each.
+Visit []() for the full list of sports and instructions for joining.
