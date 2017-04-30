@@ -4,8 +4,9 @@
     <title>Types of Personal Training Packages</title>
     <shortdesc>There are many different packages available, so you can pick the best one that meets your needs. Packages can be for a year or a semester.</shortdesc>
     <conbody>
+        <note conref="c-disclaimer.dita#disclaimer/physicalinjurydisclaimer"/>
         <p>Yearly packages:
-        <ul>
+        <ul> 
             <li>24 sessions cost $366, which is equal to $15.25 per session.</li>
             <li>32 sessions cost $480, which is equal to $15 per session.</li>
         </ul>
