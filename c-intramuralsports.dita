@@ -8,6 +8,7 @@
  
   <body>
     <p conref="c-disclaimer.dita#disclaimer/physicalactivitydisclaimer"></p>
+    <p conref="c-disclaimer.dita#disclaimer/physicalinjurydisclaimer"></p>
     <p>Intramural Sports are played on campus, and are enjoyed by faculty, staff, and students. Not
       only is intramural sports a great way to meet new friendly faces; it is an easy way to stay
       active, keep busy, and tap into that competitive side you've been hiding since high school. </p>
