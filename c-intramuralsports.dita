@@ -17,8 +17,14 @@
       horseshoes, or the millions of other sports provided. Try them all! </p>
     <p>Each sport has the goal of receiving the HokieGrail at the end of the season. This award is
       given to the All University Intramural Champion based on a point system. For more
+<<<<<<< HEAD
       information regarding intramurals, be sure to join the intramural listserv to receive updates and informative emails. <image
         href="http://www.oit.edu/images/default-source/athletics-images/general/intramural-sports.jpg?sfvrsn=6"
+=======
+      information regarding intramurals, be sure to join the intramural listserv to receive updates and informative emails.
+      <image     href="http://www.oit.edu/images/default-source/athletics-images/general/intramural-sports.jpg?sfvrsn=6"
+>>>>>>> origin/master
       /></p>
+    <p>If you want a more competitive experience with more dedicated team members you might want to consider Club Sports at Virginia Tech:  <xref href="c-clubsports.md"></xref>/>.</p>
   </body>
 </topic>

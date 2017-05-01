@@ -18,7 +18,10 @@
  </topicref>
 </topichead>
 <topichead navtitle="Personal Training">
+<<<<<<< HEAD
     <topicref href="c-personaltrainingintro.dita"/>
+=======
+>>>>>>> origin/master
   <topicref href="c-ptpackages.dita"/>
   <topicref href="t-ptsignup.dita"/>
   <topicref href="c-fitnessassessment.dita"/>
