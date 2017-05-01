@@ -6,7 +6,7 @@
     <taskbody>
        <steps>
             <step>
-                <cmd>Visit the rec sports website and log in using your PID.</cmd>
+                <cmd>Visit the Rec Sports website and log in using your PID.</cmd>
             </step>
             <step>
                 <cmd>Under the section titled "category" on the lefthand side of the page, click on the "personal training" tab to view only the personal training packages.</cmd>
@@ -32,7 +32,7 @@
             refund may be issued and will include a $10 processing fee. You must send a request and
             medical notice to the assistant director for fitness programs. If you have any other
             questions about the refund policy, contact recsports@vt.edu. <image placement="break"
-                href="../ptsignup.jpg" align="center" id="image_f3j_142_sz"/></postreq>
+                href="ptsignup.jpg" align="center" id="image_lg4_k42_tz"/></postreq> 
        
     </taskbody>
 </task>

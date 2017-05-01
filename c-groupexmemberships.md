@@ -13,4 +13,4 @@ For group exercise classes, there are yearly and semester memberships available.
 * For access to all mind+body classes in McComas and War Memorial for one semester, it costs $30.
 
 
-![../../../../../Downloads/groupexercisemembership.jpg](../../../../../Downloads/groupexercisemembership.jpg) 
+![groupexercisemembership.jpg](groupexercisemembership.jpg)

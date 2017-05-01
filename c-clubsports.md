@@ -6,9 +6,9 @@ If you are looking for a team with more committment and competition, you might w
 
 Sport club teams represent Virginia Tech and play against other colleges and universities, but are not part of the university's NCAA athletics program. Sport clubs are supported by Recreational Sports, but each team is run by a set of officers.
 
-Most sport club teams hold tryouts (some prior to the start of school) so it is important to get in touch with a club officer to find out details. However, some sport clubs require no prior skill at the sport – they'll teach you what you need to know! You can find something new to try.
+Most sport club teams hold tryouts (some prior to the start of school), so it is important to get in touch with a club officer to find out details. However, some sport clubs require no prior skill at the sport – they'll teach you what you need to know! You can find something new to try.
 
-## Check out our club sports:
+## Check Out Our Club Sports:
 
 * Baseball
 * Basketball - Women's
