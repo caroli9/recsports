@@ -3,7 +3,7 @@
 <map>
  <title/>
  <topichead navtitle="Welcome!">
- <topicref href="C-allaboutrecsports.dita"/>
+ <topicref href="c-allaboutrecsports.dita"/>
  </topichead>
 <topichead navtitle="Group Exercise (Group X)">
  <topicref href="c-groupexmemberships.md" format="markdown">
