@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-<<<<<<< HEAD
  <title>Recreational Sports</title>
- 
-  <topichead navtitle="Intramural Sports">
-   <topicref href="c-intramuralsports.dita"/>
-   <topicref href="t-choosingasport.dita"/>
-   <topicref href="t-signupintramural.md" format="markdown"/>
-  </topichead>
-=======
- <title/>
  <topichead navtitle="Welcome!">
  <topicref href="c-allaboutrecsports.dita"/>
  </topichead>
@@ -59,5 +50,4 @@
     </topicmeta>
   </topicref>
 </topichead>
->>>>>>> origin/master
 </map>
