@@ -6,6 +6,7 @@
     <taskbody>
        <steps>
             <step>
+<<<<<<< HEAD
                 <cmd>Visit the rec sports website and log in using your PID.</cmd>
             </step>
             <step>
@@ -13,12 +14,25 @@
             </step>
             <step>
                 <cmd>Click on the package you want to sign up for and click add to cart.</cmd>
+=======
+                <cmd>Visit the Rec Sports website and log in using your PID.</cmd>
+            </step>
+            <step>
+                <cmd>Under the section titled "category" on the lefthand side of the page, click on the "personal training" tab to view only the personal training packages.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the package you want to sign up for and click "add to cart."</cmd>
+>>>>>>> origin/master
             </step>
             <step>
                 <cmd>If you want to look for more packages, click "continue shopping."</cmd>
             </step>
             <step>
+<<<<<<< HEAD
                 <cmd>If you want to remove the idea from you cart, click "remove."</cmd>
+=======
+                <cmd>If you want to remove the item from you cart, click "remove."</cmd>
+>>>>>>> origin/master
             </step>
             <step>
                 <cmd>When you are happy with your purchase, click "checkout."</cmd>
@@ -27,6 +41,16 @@
                 <cmd>Insert your payment information and review your order before purchasing.</cmd>
             </step>
         </steps>
+<<<<<<< HEAD
         <postreq>If a session is ever canceled, you will be issued a full refund. If you have a documented medical condition that no longer allows you to complete your sessions, a refund may be issued and will include a $10 processing fee. If you have any other questions about the refund policy, contact recsports@vt.edu. </postreq>
+=======
+        <postreq>If a session is ever canceled, you will be issued a full refund. If you have a
+            documented medical condition that no longer allows you to complete your sessions, a
+            refund may be issued and will include a $10 processing fee. You must send a request and
+            medical notice to the assistant director for fitness programs. If you have any other
+            questions about the refund policy, contact recsports@vt.edu. <image placement="break"
+                href="ptsignup.jpg" align="center" id="image_lg4_k42_tz"/></postreq> 
+       
+>>>>>>> origin/master
     </taskbody>
 </task>

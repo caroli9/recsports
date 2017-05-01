@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
+<<<<<<< HEAD
  <title>Recreational Sports</title>
  
   <topichead navtitle="Intramural Sports">
@@ -8,4 +9,55 @@
    <topicref href="t-choosingasport.dita"/>
    <topicref href="t-signupintramural.md" format="markdown"/>
   </topichead>
+=======
+ <title/>
+ <topichead navtitle="Welcome!">
+ <topicref href="c-allaboutrecsports.dita"/>
+ </topichead>
+<topichead navtitle="Group Exercise (Group X)">
+ <topicref href="c-groupexmemberships.md" format="markdown">
+   <topicmeta>
+     <shortdesc>STUFF.</shortdesc>
+   </topicmeta>
+ </topicref>
+ <topicref href="t-groupexsignup.md" format="markdown">
+   <topicmeta>
+     <shortdesc>STUFF.</shortdesc>
+   </topicmeta>
+ </topicref>
+</topichead>
+<topichead navtitle="Personal Training">
+  <topicref href="c-personaltrainingintro.dita"/>
+  <topicref href="c-ptpackages.dita"/>
+  <topicref href="t-ptsignup.dita"/>
+  <topicref href="c-fitnessassessment.dita"/>
+  <topicref href="t-registerfitnessassessment.dita"/>
+</topichead>
+<topichead navtitle="Intramural Sports">
+ <topicref href="c-intramuralsports.dita"/>
+ <topicref href="t-choosingasport.dita"/>
+ <topicref href="t-signupintramural.md" format="markdown">
+   <topicmeta>
+     <shortdesc>STUFF.</shortdesc>
+   </topicmeta>
+ </topicref>
+</topichead>
+<topichead navtitle="Other Opportunities">
+  <topicref href="c-clubsports.md" format="markdown">
+    <topicmeta>
+      <shortdesc>STUFF.</shortdesc>
+    </topicmeta>
+  </topicref>
+  <topicref href="c-ventureout.md" format="markdown">
+    <topicmeta>
+      <shortdesc>STUFF.</shortdesc>
+    </topicmeta>
+  </topicref>
+  <topicref href="c-smallgrouptraining.md" format="markdown">
+    <topicmeta>
+      <shortdesc>STUFF.</shortdesc>
+    </topicmeta>
+  </topicref>
+</topichead>
+>>>>>>> origin/master
 </map>
