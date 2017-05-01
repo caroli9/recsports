@@ -6,10 +6,6 @@
   <body>
     <p>Personal trainers will help you design a personalized fitness program that meets your needs
       and helps you work toward your goals. </p>
-<<<<<<< HEAD
-    <p>If you would like to read the bios of the available personal trainers to pick the one who's best for you, visit the rec sports website.</p>
- </body>
-=======
     <p>If you would like to read the bios of the available personal trainers to pick the one who's
       best for you, visit the rec sports website at <xref
         href="http://www.recsports.vt.edu/getactive/personaltraining/trainers.html" format="html"
@@ -17,5 +13,4 @@
     <p>
       <image href="Personal-trainer-West-London.jpg"/></p>
    </body>
->>>>>>> origin/master
 </topic>

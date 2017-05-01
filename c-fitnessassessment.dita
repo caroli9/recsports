@@ -6,15 +6,17 @@
     <conbody>
         <p>There are two different assessments: <ul>
                 <li>The BOD POD measures your body composition, including body fat, lean mass, and
-                    metabolic rate. <note>If you are a student, faculty or staff member, or alumnus, the
-                        BOD POD will cost $15. Otherwise, it will cost $30. </note> </li>
+                    metabolic rate. <note>If you are a student, faculty or staff member, or alumnus,
+                        the BOD POD will cost $15. Otherwise, it will cost $30. </note>
+                </li>
                 <li>The advanced fitness assessment is much more extensive and includes the BOD POD
                     as well as measures of heart rate, blood pressure, cardiovascular fitness,
-                    muscular strength, endurance, flexibility, and mobility. <note>If you are a student,
-                        faculty or staff member, or alumnus, the advanced fitness assessment will cost
-                        $25. Otherwise, it will cost $50. </note> </li>
+                    muscular strength, endurance, flexibility, and mobility. <note>If you are a
+                        student, faculty or staff member, or alumnus, the advanced fitness
+                        assessment will cost $25. Otherwise, it will cost $50. </note>
+                </li>
             </ul>
-            <image placement="break" href="../fitnessassessment.jpg" align="center"
-                id="image_rgs_1s2_sz"/></p>
+            <image placement="break" href="fitnessassessment.jpg" align="center"
+                id="image_bqw_p42_tz"/></p>
     </conbody>
 </concept>

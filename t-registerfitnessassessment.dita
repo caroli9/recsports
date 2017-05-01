@@ -5,7 +5,8 @@
     <shortdesc>If you have decided to complete a fitness assessment, you need to first register and pay online. There are also a few things you should keep in mind when preparing for your fitness assessment.</shortdesc>
     <taskbody>
      <steps>
-            <step> 
+            <step>
+                <cmd>First, you need to register.</cmd>
                 <substeps>
                 <substep>
                 <cmd>Visit the online rec sports portal at <xref href="https://connect.recsports.vt.edu/Account/Login?ReturnUrl=%2FMultiVisitPass%2FGetProducts%3FproductTypeCV%3D00000000-0000-0000-0000-000000003772" format="html"
@@ -23,16 +24,20 @@
                 </substeps>
             </step>
             <step>  
+                <cmd>Now, you need to make sure you are ready to complete the assessment.</cmd>
                 <substeps>
                 <substep> 
-                    <note>Once you have registered and paid for an assessment, follow these guidelines to prepare.</note>
-                <cmd>If you are male, wear compression shorts made of polyester and/or Lycra. A swim cap will be provided to you before the assessment. If you are female, wear either compression shorts and a wire-free sports bra or a bathing suit.</cmd>
+             <cmd>If you are male, wear compression shorts made of polyester and/or Lycra. A swim cap will be provided to you before the assessment. If you are female, wear either compression shorts and a wire-free sports bra or a bathing suit.</cmd>
             </substep>
             <substep>
             <cmd>Do not eat or exercise two hours prior to the assessment, and make sure to use the restroom and remove all metal and jewelry before the assessment.</cmd>
-            </substep>
+            </substep> 
                 </substeps>
-            </step>
+            </step> 
            </steps>
+        <example>
+            <image placement="break" href="fitness-assessments.jpeg" scale="70" align="center"
+                id="image_wjs_3p2_tz"/>
+        </example>
     </taskbody>
 </task>
