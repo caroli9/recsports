@@ -1,6 +1,6 @@
 # Small Group Training
 
-If you are looking for a way to start working out, shake up your workout routine, or find folks to workout with, small group training might be for you.
+If you are looking for a way to start working out, shake up your workout routine, or find folks to work out with, small group training might be for you.
 
 Small group training is a six-week exercise program that meets twice a week with a dedicated coach and three to 12 group members.
 
@@ -26,13 +26,13 @@ A unique suspension-based resistance program will help improve strength, balance
 
 ![X-Fit Lesson](smallgroup4.jpg)
 
-A program designed to challenge you mentally and physically by constantly varying your workout. Workouts consist of high intensity, functional movements that incorporate aerobic exercise, gymnastics (body weight exercises) & weight lifting exercises to help you get in the best shape of your life.
+A program designed to challenge you mentally and physically by constantly varying your workout. Workouts consist of high intensity, functional movements that incorporate aerobic exercise, gymnastics (body weight exercises), and weight lifting exercises to help you get in the best shape of your life.
 
 ## Intro to Olympic Lifting 
 
-![Olypmic Lifting Lesson](smallgroup5.jpg)
+![Olympic Lifting Lesson](smallgroup5.jpg)
 
-A program teach you the essentials to perfect the art of weight lifting. You will learn the appropriate sequences for each skill, their progressions, and the types of training programs an athlete should follow. The lifts taught will be clean, jerk, snatch, plus intermediate progressions. 
+A program to teach you the essentials to perfect the art of weight lifting. You will learn the appropriate sequences for each skill, their progressions, and the types of training programs an athlete should follow. The lifts taught will be clean, jerk, snatch, plus intermediate progressions. 
 
 ## Stand Up Paddle Board (SUP) Yoga
 
@@ -40,6 +40,6 @@ A program teach you the essentials to perfect the art of weight lifting. You wil
 
 A program with stand up paddle surfing, combined with yoga. The sport combines hatha yoga and vinyasa yoga asanas, or poses, with surfing. During SUP Yoga, you will be doing yoga poses on a paddleboard in the pool.
   
-For more information about the programs, the coaches, and how to sign up visit our Small Group Training [Formats + Schedule Page](http://www.recsports.vt.edu/getactive/smallgroup/formatdescriptions.html).
+For more information about the programs, the coaches, and how to sign up, visit our Small Group Training [Formats + Schedule Page](http://www.recsports.vt.edu/getactive/smallgroup/formatdescriptions.html).
 
 
