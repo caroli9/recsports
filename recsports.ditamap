@@ -6,22 +6,25 @@
  <topicref href="c-allaboutrecsports.dita"/>
  </topichead>
 <topichead navtitle="Group Exercise (Group X)">
+    <topicref href="c-groupxintro.md" format="markdown">
+      <topicmeta>
+        <shortdesc>A great way to stay active.</shortdesc>
+      </topicmeta>
+    </topicref>
+    <topicref href="t-groupclasses.dita"/>
  <topicref href="c-groupexmemberships.md" format="markdown">
    <topicmeta>
-     <shortdesc>STUFF.</shortdesc>
+     <shortdesc>Information regarding group exercise memberships</shortdesc>
    </topicmeta>
  </topicref>
  <topicref href="t-groupexsignup.md" format="markdown">
    <topicmeta>
-     <shortdesc>STUFF.</shortdesc>
+     <shortdesc>Learn how to sign up for group exercise classes.</shortdesc>
    </topicmeta>
  </topicref>
 </topichead>
 <topichead navtitle="Personal Training">
-<<<<<<< HEAD
-    <topicref href="c-personaltrainingintro.dita"/>
-=======
->>>>>>> origin/master
+  <topicref href="c-personaltrainingintro.dita"/>
   <topicref href="c-ptpackages.dita"/>
   <topicref href="t-ptsignup.dita"/>
   <topicref href="c-fitnessassessment.dita"/>
@@ -32,24 +35,29 @@
  <topicref href="t-choosingasport.dita"/>
  <topicref href="t-signupintramural.md" format="markdown">
    <topicmeta>
-     <shortdesc>STUFF.</shortdesc>
+     <shortdesc>Intramural sign-up information</shortdesc>
    </topicmeta>
  </topicref>
 </topichead>
+<topichead navtitle="Employment Opportunities">
+    <topicref href="c-employmentopportunities.dita"/>
+    <topicref href="t-studentjobs.dita"/>
+    <topicref href="t-employmentpackets.dita"/>
+  </topichead>
 <topichead navtitle="Other Opportunities">
   <topicref href="c-clubsports.md" format="markdown">
     <topicmeta>
-      <shortdesc>STUFF.</shortdesc>
+      <shortdesc>Join a VT Club Sports for a more competitive experience.</shortdesc>
     </topicmeta>
   </topicref>
   <topicref href="c-ventureout.md" format="markdown">
     <topicmeta>
-      <shortdesc>STUFF.</shortdesc>
+      <shortdesc>Take pre-planned outdoor trips around the New River Valley with Venture Out.</shortdesc>
     </topicmeta>
   </topicref>
   <topicref href="c-smallgrouptraining.md" format="markdown">
     <topicmeta>
-      <shortdesc>STUFF.</shortdesc>
+      <shortdesc>Sign Up for a Small Group Training class for a more personal experience.</shortdesc>
     </topicmeta>
   </topicref>
 </topichead>

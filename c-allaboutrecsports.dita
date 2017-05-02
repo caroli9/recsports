@@ -5,7 +5,8 @@
  <shortdesc>Recreational Sports at Virginia Tech offers a multitude of opportunites for students,
     faculty, and staff. Rec Sports offers group exercise, personal training, intramural sports, club
     sports, Venture Out, and so much more! Through Rec Sports, you can develop healthy lifestyles,
-    friendships, and leadership skills through fun and competitive activity. <image
+    friendships, and leadership skills through fun and competitive activity. 
+   <image
       href="img-recsports.jpg" id="image_w4g_yq2_sz"/></shortdesc>
  <conbody>
   <p conref="c-disclaimer.dita#disclaimer/physicalactivitydisclaimer"></p>
@@ -17,9 +18,8 @@
   <p>This website will provide all of the necessary information about Recreational Sports at
    Virginia Tech. It is a tool that will help<i> anyone</i> find <i>anything </i>about this
    department! </p>
+    <p><object data="https://www.youtube.com/embed/8CtcJs8otXY" outputclass="iframe"/></p>
+
  </conbody>
-  <related-links>
-    <link href="https://www.youtube.com/edit?o=U&amp;video_id=8CtcJs8otXY&amp;feature=vm"
-      format="html" scope="external"/>
-  </related-links>
+ 
 </concept>
